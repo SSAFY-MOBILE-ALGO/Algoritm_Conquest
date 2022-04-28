@@ -37,3 +37,47 @@
         <td align="center">정봉진</td>
     </tr>
 </table>
+
+
+## ✏️ Study Plan 
+<details>
+    <summary> 2022년 4월 </summary>
+    <div markdown="1">
+        <h3>🎈 1주차(2022-04-27 ~ 2022-05-03) : 백준 브루트포스 기초</h3>
+        <table style="font-weight : bold">
+            <tr>
+                <td align="center">
+                    제목
+                </td>
+                <td align="center">
+                    분류
+                </td>
+                <td align="center">
+                    레벨
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/6064">
+                        카잉달력
+                    </a>
+                </td>
+                <td align="center">
+                    수학, 정수론
+                </td>
+                <td align="center">실버 1</td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/6064">
+                        테트로미노
+                    </a>
+                </td>
+                <td align="center">
+                    구현, 브루트포스
+                </td>
+                <td align="center">골드 5</td>
+            </tr>
+        </table>
+    </div>
+</details>
