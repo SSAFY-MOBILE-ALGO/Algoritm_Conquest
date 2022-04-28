@@ -4,27 +4,27 @@
 <table align="center" style="font-weight : bold">
     <tr>
         <td align="center">
-            <a href="https://github.com/ssonghj">                 
+            <a href="https://github.com/Nonspecialist1">                 
                 <img alt="심세현" src="https://avatars.githubusercontent.com/Nonspecialist1" width="200" />            
             </a>
         </td>
         <td align="center">
-            <a href="https://github.com/Nonspecialist1">                 
+            <a href="https://github.com/skw4223">                 
                 <img alt="서경원" src="https://avatars.githubusercontent.com/skw4223" width="200" />            
             </a>
         </td>
         <td align="center">
-            <a href="https://github.com/GideokLee">                 
+            <a href="https://github.com/HanYeop">                 
                 <img alt="한상엽" src="https://avatars.githubusercontent.com/HanYeop" width="200" />            
             </a>
         </td>
         <td align="center">
-            <a href="https://github.com/jdsaeyqo">                 
+            <a href="https://github.com/style070">                 
                 <img alt="김재홍" src="https://avatars.githubusercontent.com/style070" width="200" />            
             </a>
         </td>
         <td align="center">
-            <a href="https://github.com/amane-IT">                 
+            <a href="https://github.com/JeongBJ">                 
                 <img alt="정봉진" src="https://avatars.githubusercontent.com/JeongBJ" width="200" />            
             </a>
         </td>
