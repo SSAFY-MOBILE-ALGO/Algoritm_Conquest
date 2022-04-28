@@ -69,7 +69,7 @@
             </tr>
             <tr>
                 <td align="center">
-                    <a href="https://www.acmicpc.net/problem/6064">
+                    <a href="https://www.acmicpc.net/problem/14500">
                         테트로미노
                     </a>
                 </td>
