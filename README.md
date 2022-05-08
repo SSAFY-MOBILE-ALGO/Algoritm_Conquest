@@ -81,3 +81,45 @@
         </table>
     </div>
 </details>
+
+<details>
+    <summary> 2022년 5월 </summary>
+    <div markdown="1">
+        <h3>🎈 2주차(2022-05-05 ~ 2022-05-11) : 다이나믹 프로그래밍 Part2</h3>
+        <table style="font-weight : bold">
+            <tr>
+                <td align="center">
+                    제목
+                </td>
+                <td align="center">
+                    분류
+                </td>
+                <td align="center">
+                    레벨
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/1309">
+                        동물원
+                    </a>
+                </td>
+                <td align="center">
+                    DP
+                </td>
+                <td align="center">실버 1</td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/2133">
+                        타일 채우기
+                    </a>
+                </td>
+                <td align="center">
+                    DP
+                </td>
+                <td align="center">골드 5</td>
+            </tr>
+        </table>
+    </div>
+</details>
