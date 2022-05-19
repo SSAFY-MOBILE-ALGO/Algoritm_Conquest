@@ -123,7 +123,7 @@
         </table>
     </div>
     <div markdown="1">
-        <h3>🎈 3주차(2022-05-05 ~ 2022-05-11) : DFS, BFS</h3>
+        <h3>🎈 3주차(2022-05-12 ~ 2022-05-18) : DFS, BFS</h3>
         <table style="font-weight : bold">
             <tr>
                 <td align="center">
@@ -157,6 +157,33 @@
                     DP, BFS
                 </td>
                 <td align="center">골드 5</td>
+            </tr>
+        </table>
+    </div>
+    <div markdown="1">
+        <h3>🎈 4주차(2022-05-19 ~ 2022-05-25) : 다익스트라</h3>
+        <table style="font-weight : bold">
+            <tr>
+                <td align="center">
+                    제목
+                </td>
+                <td align="center">
+                    분류
+                </td>
+                <td align="center">
+                    레벨
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/1466">
+                        지름길
+                    </a>
+                </td>
+                <td align="center">
+                    다익스트라, DP
+                </td>
+                <td align="center">실버 1</td>
             </tr>
         </table>
     </div>
