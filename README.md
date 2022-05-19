@@ -122,4 +122,42 @@
             </tr>
         </table>
     </div>
+    <div markdown="1">
+        <h3>🎈 3주차(2022-05-05 ~ 2022-05-11) : DFS, BFS</h3>
+        <table style="font-weight : bold">
+            <tr>
+                <td align="center">
+                    제목
+                </td>
+                <td align="center">
+                    분류
+                </td>
+                <td align="center">
+                    레벨
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/13023">
+                        ABCDE
+                    </a>
+                </td>
+                <td align="center">
+                    DFS
+                </td>
+                <td align="center">골드 5</td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/14226">
+                        이모티콘
+                    </a>
+                </td>
+                <td align="center">
+                    DP, BFS
+                </td>
+                <td align="center">골드 5</td>
+            </tr>
+        </table>
+    </div>
 </details>
