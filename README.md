@@ -176,7 +176,7 @@
             </tr>
             <tr>
                 <td align="center">
-                    <a href="https://www.acmicpc.net/problem/1466">
+                    <a href="https://www.acmicpc.net/problem/1446">
                         지름길
                     </a>
                 </td>
