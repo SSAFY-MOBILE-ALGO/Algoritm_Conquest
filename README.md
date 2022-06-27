@@ -19,11 +19,6 @@
             </a>
         </td>
         <td align="center">
-            <a href="https://github.com/style070">                 
-                <img alt="김재홍" src="https://avatars.githubusercontent.com/style070" width="200" />            
-            </a>
-        </td>
-        <td align="center">
             <a href="https://github.com/JeongBJ">                 
                 <img alt="정봉진" src="https://avatars.githubusercontent.com/JeongBJ" width="200" />            
             </a>
@@ -33,7 +28,6 @@
         <td align="center">심세현</td>
         <td align="center">서경원</td>
         <td align="center">한상엽</td>
-        <td align="center">김재홍</td>
         <td align="center">정봉진</td>
     </tr>
 </table>
